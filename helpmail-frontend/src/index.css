@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: add your CSS variables here for colors and design system */
+:root {
+  --background: 240 20% 99%;
+  --foreground: 240 10% 3.9%;
+  --card: 0 0% 100%;
+  --primary: 262 83% 58%;
+  --accent: 220 90% 56%;
+  --border: 240 5.9% 90%;
+  --secondary: 240 4.8% 95.9%;
+  --muted-foreground: 240 3.8% 46.1%;
+  --destructive: 0 84.2% 60.2%;
+}
